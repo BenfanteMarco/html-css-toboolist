@@ -77,3 +77,35 @@ h1{
     margin-right: 5px;
     font-family: 'Onest', sans-serif;
 }
+
+/* LISTA */
+.lista{
+    padding-left: 75px;
+    padding-top: 40px;
+    font-family: 'Onest', sans-serif;
+}
+
+.sotto-lista-1{
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 50px;
+    color: rgb(90, 90, 90);
+}
+
+.sotto-lista-2{
+    font-size: 19px;
+    padding-left: 10px;
+    color: rgb(114, 114, 114);
+    line-height: 35px;
+}
+
+.blue-span{
+    background-color: rgb(70, 184, 255);
+    border: 1.5px solid rgb(0, 183, 255);
+    border-radius: 13px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+    margin-right: 5px;
+    font-family: 'Onest', sans-serif;
+}
